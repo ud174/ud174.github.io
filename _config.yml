@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Webpage"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Umut Demirhan"
 description              : &description "personal description"
