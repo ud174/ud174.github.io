@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Umut Demirhan is pursuing his Ph.D. degree at Arizona State University as a member of Wireless Intelligence Laboratory. He received the B.S. and M.S. degrees in Electrical and Electronics Engineering from Bilkent University, Ankara, Turkey, in 2015 and 2017, respectively. As leisure activities, he enjoys hiking, running and cooking.
+Welcome to my personal page! I'm pursuing my Ph.D. degree at Arizona State University as a member of Wireless Intelligence Laboratory. I'm mainly interested in wireless communications and machine learning applications. I received my B.S. and M.S. degrees in Electrical and Electronics Engineering from Bilkent University, Ankara, Turkey, in 2015 and 2017. As leisure activities, I enjoy hiking, running and cooking.
 
