@@ -20,7 +20,7 @@ Work experience
 * Fall 2015-Summer 2017: Research & Teaching Assistant
 	* Bilkent University
 	* Communications Theory and Applications Research (CTAR) Lab
-	* TA for Probability Theory
+	* TA for Introduction to Probability Theory
 
 * Summer 2020: System Engineering Intern
   * CommScope
