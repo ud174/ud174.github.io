@@ -3,7 +3,7 @@ title: "Computer Vision Aided URLL Communications: Proactive Service Identificat
 collection: publications
 permalink: /publication/Vision-URLL_long
 excerpt:
-date: 18-03-2021
+date: 2021-03-18
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2103.10419'
 citation: 'M. Alrabeiah, U. Demirhan, A. Hredzak, and A. Alkhateeb, “Computer Vision Aided URLL Communications: Proactive Service Identification and Coexistence,” 2021, arXiv:2103.10419.'
