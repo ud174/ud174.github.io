@@ -8,8 +8,3 @@ venue: '2018 IEEE International Conference on Communications (ICC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8422090'
 citation: 'U. Demirhan and T. M. Duman, "Energy-Harvesting Irregular Repetition Slotted ALOHA with Unit-Sized Battery," 2018 IEEE International Conference on Communications (ICC), 2018, pp. 1-6, doi: 10.1109/ICC.2018.8422090.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
