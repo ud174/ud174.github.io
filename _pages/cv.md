@@ -20,7 +20,10 @@ Work experience
 * Fall 2017-: Graduate Research Associate
 	* Arizona State University
 	* Wireless Intelligence Laboratory (since 2020)
-	
+
+* Fall 2015-Summer 2017: Research & Teaching Assistant
+	* Bilkent University
+
 * Summer 2020: System Engineering Intern
   * CommScope
   * Worked on machine learning for LTE/5G networks
