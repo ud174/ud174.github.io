@@ -17,12 +17,10 @@ Education
 
 Work experience
 ======
-* Fall 2017-: Graduate Research Associate
-	* Arizona State University
-	* Wireless Intelligence Laboratory (since 2020)
-
 * Fall 2015-Summer 2017: Research & Teaching Assistant
 	* Bilkent University
+	* Communications Theory and Applications Research (CTAR) Lab
+	* TA for Probability Theory
 
 * Summer 2020: System Engineering Intern
   * CommScope
@@ -32,6 +30,10 @@ Work experience
   * Nokia Bell Labs
   * Worked on machine learning for wireless communications
   
+* Fall 2017-: Graduate Research Associate
+	* Arizona State University
+	* Wireless Intelligence Laboratory (since 2020)
+
 Skills
 ======
 * Programming
